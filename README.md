@@ -74,8 +74,8 @@ You may read more about it in our serverless performance blog. Since cold start 
 
 # Tools to help create Lambdas
 
-(AWS Serverless Application Model)[https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html]
-(How Debug AWS Lambdas)[https://lumigo.io/debugging-aws-lambda-serverless-applications/]
+- [AWS Serverless Application Model](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
+- [How Debug AWS Lambdas](https://lumigo.io/debugging-aws-lambda-serverless-applications/)
 
 Create SAM Template:
 ```bash
@@ -123,9 +123,8 @@ aws cloudformation delete-stack --stack-name lambda-example
 
 # Open Source Framework to deploy Faas (Function as a Service):
 
-(Serverless Framework)[https://github.com/serverless/serverless]
-(Explanation how works Serverless Paas)[https://www.youtube.com/watch?v=-Nf0ui3qP2E]
-
+- [Serverless Framework](https://github.com/serverless/serverless)
+- [Explanation how works Serverless Paas](https://www.youtube.com/watch?v=-Nf0ui3qP2E)
 
 # Tools to help monitoring Servless applications:
 
