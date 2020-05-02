@@ -154,5 +154,5 @@ Not every one of your functions will be invoked at the same frequency. Hence, fo
 
 # References
 
-[Thinking twice about migrating to Serverless, with Edwin Derks](https://www.youtube.com/watch?v=SWttiRCJSUE)
-[Containers x Serverless](https://www.thorntech.com/2018/08/containers-vs-serverless/)
+- [Thinking twice about migrating to Serverless, with Edwin Derks](https://www.youtube.com/watch?v=SWttiRCJSUE)
+- [Containers x Serverless](https://www.thorntech.com/2018/08/containers-vs-serverless/)
